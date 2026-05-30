@@ -1,10 +1,11 @@
 # Femi Adebiyi Onisile
 
-**Software engineer — Python, control systems, and operational-technology software.**
+**Software engineer — Python,Control Systems, and Operational-Technology Software.**
 
 I build reliable, well-tested software where code meets physical systems: state
 estimation, sensor fusion, industrial monitoring, and the APIs and dashboards
-around them. MSc in Automation & Robotics; founder and lead engineer at Sentinel
+around them.
+MSc in Automation & Robotics; founder and lead engineer at Sentinel
 Robotics Group, building a cyber-physical integrity-monitoring platform for
 industrial control systems.
 
