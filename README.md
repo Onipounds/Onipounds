@@ -29,7 +29,7 @@ And, aimed at AI / LLM work:
 
 | Project | What it does |
 |---------|--------------|
-| [**rag-doc-qa**](https://github.com/Onipounds/rag-doc-qa) | Retrieval-augmented document Q&A — TF-IDF retrieval with grounded, cited answers (optional Claude generation). |
+| [**rag-doc-qa**](https://github.com/Onipounds/rag-doc-qa) | Retrieval-augmented document Q&A — TF-IDF retrieval with grounded, cited answers (optional LLM generation). |
 
 Every repository has a test suite and continuous integration across Python 3.10–3.12.
 
