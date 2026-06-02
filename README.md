@@ -12,7 +12,7 @@ telemetry-api	FastAPI + SQLAlchemy service to ingest and query sensor telemetry.
 telemetry-dashboard	Live FastAPI + Chart.js dashboard — ▶ live demo
 And, aimed at AI / LLM work:
 Project	What it does
-rag-doc-qa	Retrieval-augmented document Q&A — TF-IDF retrieval with grounded, cited answers (optional LLM generation).
+rag-doc-qa	Retrieval-augmented document Q&A , TF-IDF retrieval with grounded, cited answers (optional LLM generation).
 agent-loop	A small AI agent harness — tool-calling loop, memory, and a two-layer self-verification step (grounding + re-computation) so the agent checks its own work instead of hallucinating. Offline-testable; exposes its tools as an MCP server.
 Every repository has a test suite and continuous integration across Python 3.10–3.12.
 Tech
