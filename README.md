@@ -1,5 +1,5 @@
 Femi Adebiyi Onisile
-Software engineer — Python| Backend| Cloud / DevOps| and Operational-Technology Software.
+Software engineer - Python| Backend| Cloud / DevOps| and Operational-Technology Software.
 I build reliable, well-tested software where code meets physical systems: state estimation, sensor fusion, industrial monitoring, and the APIs and dashboards around them  and I deploy it to the cloud with infrastructure-as-code and CI/CD. MSc in Automation & Robotics; founder and lead engineer at Sentinel Robotics Group, building a cyber-physical integrity-monitoring platform for industrial control systems.
 London, UK · open to software engineering roles (backend, cloud / DevOps, OT/industrial, ML/AI).
 Selected work
